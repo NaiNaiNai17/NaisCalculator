@@ -1,0 +1,275 @@
+.top {
+	text-align: center;
+	font-size: 35px;
+	padding: 25px;
+	color: black;
+	font-weight:600;
+	background-color:#00ffb6;
+	font-family: Georgia, serif;
+	max-width:35%;
+	margin:auto;
+	border: solid  grey;
+
+
+
+}
+
+.main {
+	background-color: #00ffb6;
+	font-family: Georgia, serif;
+	font-size: 20px;
+	padding:25px;
+	max-width: 35%;
+	border: 50px;
+	margin:0 auto;
+	text-align: center;
+	height: 450px;
+	border:solid grey;
+
+
+
+}
+
+.screen {
+
+	background-color: pink;
+	padding: 20px;
+	margin-right: 10px;
+	text-align: right;
+	height: 25px;
+	width: 79%;
+	border: solid 25px grey;
+	font-family:'Orbitron', sans-serif;
+    font-size: 35px;
+    float: left;
+
+}
+
+.ac {
+
+	background-color: pink;
+	border: solid 15px  grey;
+	font-family: 'Orbitron', sans-serif;
+	font-size:40px;
+	left:0;
+	display:flex;
+	padding: 8px;
+	flex-direction: row;
+	float: left;
+}
+
+.ce {
+
+	background-color:pink;
+	border:solid 15px grey;
+	font-family:'Orbitron', sans-serif;
+	font-size: 40px;
+	left:25%;
+	display:flex;
+	padding:8px;
+	flex-direction: row;
+	float: left;
+}
+
+.po {
+	background-color:pink;
+	border:solid 15px grey;
+	font-family:'Orbitron', sans-serif;
+	font-size: 40px;
+	left:50%;
+	display: flex;
+	padding: 8px;
+	flex-direction: row;
+	float: left;
+	
+
+}
+
+.x {
+	background-color:pink;
+	border:solid 15px grey;
+	font-family:'Orbitron', sans-serif;
+	font-size:40px;
+	left: 75%;
+	display: flex;
+	padding:8px;
+	flex-direction: row;
+	float: left;
+}
+
+.eq {
+
+	background-color:pink;
+	border: solid 15px grey;
+	font-family: 'Orbitron', sans-serif;
+	font-size: 40px;
+	left:100%;
+	display: flex;
+	padding:8px;
+	flex-direction: row;
+	float:left;
+	color: grey;
+
+}
+
+.one {
+	background-color:pink;
+	border:solid 15px grey;
+	font-family:'Orbitron', sans-serif;
+	font-size: 40px;
+	left:0;
+	display:flex;
+	padding:10px;
+	flex-direction: row;
+	float:left;
+	text-align: center;
+	
+	
+
+
+}
+
+.two {
+	background-color:pink;
+	border:solid 15px grey;
+	font-family:'Orbitron', sans-serif;
+	font-size: 40px;
+	left:0;
+	display:flex;
+	padding:10px;
+	flex-direction: row;
+	float:left;
+	text-align: center;
+	
+
+	
+
+}
+
+.three {
+	background-color:pink;
+	border:solid 15px grey;
+	font-family:'Orbitron', sans-serif;
+	font-size: 40px;
+	left: 0;
+	display: flex;
+	padding: 10px;
+	flex-direction: row;
+	float:left;
+	text-align: center;
+	
+
+}
+
+.four {
+	background-color:pink;
+	border:solid 15px grey;
+	font-family:'Orbitron', sans-serif;
+	font-size: 40px;
+	left:0;
+	display:flex;
+	padding:10px;
+	flex-direction: row;
+	float:left;
+	text-align: center;
+	
+}
+
+.five {
+	background-color: pink;
+	border:solid 15px grey;
+	font-family: 'Orbitron', sans-serif;
+	font-size: 40px;
+	left: 0;
+	display: flex;
+	padding:10px;
+	flex-direction: row;
+	float: left;
+	text-align: center;
+	
+}
+.six {
+	background-color: pink;
+	border: solid 15px grey;
+	font-family: 'Orbitron', sans-serif;
+	font-size: 40px;
+	left:0;
+	display: flex;
+	padding: 10px;
+	flex-direction: row;
+	float: left;
+	text-align: center;
+	
+
+}
+
+.seven {
+	background-color:pink;
+	border:solid 15px grey;
+	font-family: 'Orbitron', sans-serif;
+	font-size: 40px;
+	left:0;
+	display:flex;
+	padding:10px;
+	flex-direction: row;
+	float: left;
+	text-align: center;
+
+}
+
+.eight {
+	background-color:pink;
+	border: solid 15px grey;
+	font-family:'Orbitron', sans-serif;
+	font-size: 40px;
+	left: 0;
+	display:flex;
+	padding:10px;
+	flex-direction: row;
+	float:left;
+	text-align: center;
+
+}
+
+.nine {
+	background-color: pink;
+	border: solid 15px grey;
+	font-family: 'Orbitron', sans-serif;
+	font-size: 40px;
+	left: 0;
+	display:flex;
+	padding:10px;
+	flex-direction: row;
+	float: left;
+	text-align: center;
+
+}
+
+.zero {
+	background-color: pink;
+	border: solid 15px grey;
+	font-family: 'Orbitron', sans-serif;
+	font-size: 40px;
+	left:0;
+	display:flex;
+	padding: 10px;
+	flex-direction: row;
+	float:left;
+	text-align: center;
+
+
+}
+p {
+	text-align: center;
+
+}
+
+div {
+	
+}
+
+
+h2 {
+	font-size:30px;
+	text-align: center;
+}
